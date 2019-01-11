@@ -1,0 +1,37 @@
+html, body, h1, h2, h3, ul, ol, p, li {margin: 0; padding: 0;}
+body
+{
+    background-image: url(8.jpg); 
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-size: cover; 
+    }
+    header {
+        padding: 20px 0;
+        width: 100%;
+        background-color: rgba(0, 0, 0, 0.767);
+    }
+    .wrapper {
+        width: 70%;
+        margin: 0 auto;
+        overflow: hidden;
+    }
+    #logo{
+        color: aliceblue;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: 30px;
+        color: red;
+    }
+
+
+
+p{
+    color: royalblue; 
+    border: 1px solid black; 
+    text-align: center; 
+    width: 75; 
+    height: auto;
+    font-size: 35px;
+    background-color: rgba(250, 235, 215, 0.664);
+    padding: 100px 300px;
+}
