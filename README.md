@@ -20,4 +20,4 @@ form login
 login berhasil
 ![alt text](https://github.com/lyrahrtn/Praktikum5Lyra/blob/master/login%20berhasil.JPG)
 login gagal
-![alt text](https://github.com/lyrahrtn/Praktikum5Lyra/blob/master/login%20gagal.JPG)
+![alt text](https://github.com/lyrahrtn/Praktikum5Lyra/blob/master/login%20salah.JPG)
